@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "FoodBox",
+    "description": "New Zealand's original Foodbox store. 'Boost AI Search & Discovery' app is used to enhance filter and search feature in the store. And it is customized from scratch.",
+    "live": "https://foodbox.co.nz",
+    "img":"foodbox-1.png"
+  },
+  {
+    "id": 2,
+    "title": "STREETWEAR BRAND",
+    "description": "Their garments are the embodiment of relentless effort, refinement and constant progression. Each piece is the result of a meticulous design and production process, with expert craftsmanship being an unremitting factor running throughout every collection, silhouette and individual garment.",
+    "live": "https://representclo.com/",
+    "img":"representclo.png"
+  },
+  {
+    "id": 3,
+    "title": "KOIO",
+    "description": "Experience the Mello – the first-ever luxury sneaker made from 99% biodegradable materials. Wear it for decades, and when you’re ready to part ways down the line, you’ll feel great knowing that it will biodegrade back into earth. This is the future of luxury.",
+    "live": "https://www.koio.co/",
+    "img":"koio.png"
+  }
+]
