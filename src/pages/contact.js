@@ -106,14 +106,14 @@ const Contact = () => {
                 <Box border="1px" borderRadius={5} p={5} ml={[0,5]} mt={[10,0]}>
                     <Heading mb={5} >Contact Information</Heading>
                     <Box me={5} textAlign={["center", "left"]}>
-                        <Text mt={5}>
+                        {/* <Text mt={5}>
                             {getFontAwesomeIcon(faPhone)} +1 936 657 1605
+                        </Text> */}
+                        <Text mt={5}>
+                            {getFontAwesomeIcon(faEnvelope)} serhiibuzurnyi@gmail.com
                         </Text>
                         <Text mt={5}>
-                            {getFontAwesomeIcon(faEnvelope)} theunlimited1234@gmail.com
-                        </Text>
-                        <Text mt={5}>
-                            {getFontAwesomeIcon(faLocationDot)} Singapore, Singapore
+                            {getFontAwesomeIcon(faLocationDot)} Ukraine, Ukraine
                         </Text>
                     </Box>
                     

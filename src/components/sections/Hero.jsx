@@ -17,7 +17,7 @@ const Hero = () => {
             </Box>
             <Box>
               <Text fontSize={textSize} textAlign={['center', 'center', 'left']}>
-                Hello, I&apos;m <Text as="span" fontWeight="bold" >Alexander Davis</Text><br />
+                Hello, I&apos;m <Text as="span" fontWeight="bold" >Serhii Buzurnyi</Text><br />
                 <TypeAnimation
                   sequence={[
                     'Shopify Developer',
