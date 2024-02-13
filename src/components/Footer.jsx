@@ -14,7 +14,7 @@ const Footer = () => {
     <Box mt={10} borderTopWidth="1px" borderTopColor="gray.300">
       <Flex flexDirection={flexDirection} alignItems="center" justifyContent={justify} p={5}>
         <Box as="span" fontWeight="semibold" fontSize="xl" mb={{ base: 5, md: 0 }}>
-        Serhii Buzurnyi
+        Alexander Davis
         </Box>
         <Spacer />
         <Box display={display} justifyContent="center" spacex={5}>

@@ -110,10 +110,10 @@ const Contact = () => {
                             {getFontAwesomeIcon(faPhone)} +1 936 657 1605
                         </Text> */}
                         <Text mt={5}>
-                            {getFontAwesomeIcon(faEnvelope)} serhiibuzurnyi@gmail.com
+                            {getFontAwesomeIcon(faEnvelope)} coolalex.dev@gmail.com
                         </Text>
                         <Text mt={5}>
-                            {getFontAwesomeIcon(faLocationDot)} Ukraine, Kiev
+                            {getFontAwesomeIcon(faLocationDot)}
                         </Text>
                     </Box>
                     

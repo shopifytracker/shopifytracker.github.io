@@ -33,7 +33,7 @@ const Navbar = () => {
         <div className="flex items-center flex-shrink-0 mr-6">
           <Link as={NextLink} href="/" passHref={true} legacyBehavior={true}>
             <a>
-              <span className="font-semibold text-xl tracking-tight">Serhii Buzurnyi</span>
+              <span className="font-semibold text-xl tracking-tight">Alexander Davis</span>
             </a>
           </Link>
         </div>
