@@ -29,9 +29,9 @@ const Overview = () => {
           Who am I?
         </Text>
         <Text fontSize={["xl", "2xl"]} lineHeight="tall">
-          I am a highly motivated Shopify Developer with a passion 
-          for innovative software solutions. I have solid experience in 
-          customizing themes , building Shopify apps and managing online stores for clients.
+          I am a driven and dedicated Shopify Developer with a strong 
+          enthusiasm for creating cutting-edge software solutions. 
+          My expertise lies in customizing themes, developing Shopify apps, and overseeing the management of online stores.
         </Text>
       </Box>
     </Box>

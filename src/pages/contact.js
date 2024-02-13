@@ -113,7 +113,7 @@ const Contact = () => {
                             {getFontAwesomeIcon(faEnvelope)} coolalex.dev@gmail.com
                         </Text>
                         <Text mt={5}>
-                            {getFontAwesomeIcon(faLocationDot)}
+                            {getFontAwesomeIcon(faLocationDot)} Oslo Norway
                         </Text>
                     </Box>
                     
