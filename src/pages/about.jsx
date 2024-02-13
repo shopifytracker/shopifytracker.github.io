@@ -15,7 +15,7 @@ const About = () => {
             About Me
           </Text>
           <Text fontSize={{ base: "xl", md: "2xl" }} mt={4} mb={{ base: 3, md: 0 }}>
-            Welcome to my portfolio website! I&apos;m Alexander Davis, a Shopify Developer from Norway. 
+            Welcome to my portfolio website! I&apos;m Alexander Davis, a Shopify Developer from Singapore. 
             I graduated from Tokyo University in Japan. With expertise in PHP, JavaScript, Python, and Liquid, I continuously learn and stay updated in the field. 
             My goal is to create innovative Ecommerce website that offer exceptional user experiences. I love to builing beautiful and highly ordered webstore in the world.
           </Text>
